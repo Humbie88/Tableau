@@ -2,7 +2,9 @@
 ## Comparto link de Tableau Public
 ## https://public.tableau.com/app/profile/humberto.garcia1795/viz/CasopracticoTableau_/Dashboard1?publish=yes
 
-## Conclusiones. Mi Dashboard se enfocó en dar una idea general de lo que esta pasando en la organización y entregarselo al gerente de RRHH.
+## Mi Dashboard se enfocó en dar una idea general de lo que esta pasando en la organización y entregarselo al gerente de RRHH.
+
+Conclusiones. 
 
 ### Podemos observar que los salarios estan equilibrados entre hombres y mujeres, siendo en produccion en donde hay mayor salario, lo cual nos hace asumir que no hay distincion de sueldo por género.
 
